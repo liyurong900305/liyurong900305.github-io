@@ -1,1 +1,1 @@
-# liyurong900305.github.io
+# This website was created for my Coursera.com course project.
